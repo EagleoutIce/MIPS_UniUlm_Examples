@@ -1,3 +1,5 @@
+## Autor: Florian Sihler
+## Montag 04.02.2019
 .data
     inp1: .space 50  # 48 Zeichen
     str1: .asciiz "Lila Einhornland!: "
