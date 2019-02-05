@@ -3,7 +3,7 @@
 .data
     str1: .asciiz  "Wie alt bist du?: "
     succ: .asciiz  "Du darfst reinkommen!\n"
-    fail: .asciiz  "Du darfst nicht reinkommen!\n"
+    fail: .asciiz  "Du kommst hier nicht rein!\n"
 .text
 main:
     la $a0, str1            # Frage Laden
