@@ -1,5 +1,5 @@
 ## Autor: Florian Sihler
-## Montag 05.02.2019
+## Dienstag 05.02.2019
 .data
     str1: .asciiz  "Wie alt bist du?: "
     succ: .asciiz  "Du darfst reinkommen!\n"
